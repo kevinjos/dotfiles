@@ -1,0 +1,8 @@
+bind XF86MonBrightnessDown exec xbacklight -dec 5
+bind XF86MonBrightnessUp exec xbacklight -inc 5
+
+set winname class
+startup_message off
+bind x exec xtrlock
+bind semicolon exec
+
